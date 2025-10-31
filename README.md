@@ -20,4 +20,12 @@ Analyze customer demographic and lifestyle data to uncover trends influencing bi
   - Slicers for interactivity  
   - Dashboard layout design
 ## Dashboard Preview
-[Dashboard Sreenshot]
+[Dashboard Sreenshot](https://github.com/Prokriti-G/Prokriti-Data-Analytics-Portfolio/blob/main/Bike%20Dashboard.png)
+## Skills Demonstrated 
+- Data cleaning and transformation  
+- Exploratory data analysis (EDA)  
+- Dashboard design and storytelling  
+- Identifying demographic patterns and business insights
+---
+## Notes
+This project showcases how Excel can be used to analyze real-world data and uncover insights about customer purchasing behavior. The interactive dashboard allows users to explore trends across different demographics and regions.
