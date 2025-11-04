@@ -14,7 +14,7 @@ Includes data cleaning, pivot tables, dashboards, and insights.
 An exploratory SQL project analyzing customer orders and menu performance.  
 Used JOINs, aggregate functions, and customer segmentation to identify best-selling and underperforming items.
 
-**Project Folder:** `SQL_Cafe_Menu_Analysis/`  
+**Project Folder:** [SQL Café Menu Analysis](./SQL_Cafe_Menu_Analysis)  
 *Skills:* SELECT statements, JOINs, GROUP BY, aggregation, ranking, customer insights
 
 ## Tools & Skills
