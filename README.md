@@ -7,7 +7,7 @@ Welcome to my data analytics portfolio. This repository showcases the projects I
 A full Excel-based data analysis project exploring how demographic factors relate to bike purchases.  
 Includes data cleaning, pivot tables, dashboards, and insights.
 
-**Project Folder:** `Excel_Bike_Sales_Project/`  
+**Project Folder:** [Excel Bike Sales Project](./Excel_Bike_Sales_Project)  
 *Skills:* Data cleaning, Pivot Tables, Dashboard creation, KPI interpretation
 
 ### 2. **Café Menu Analysis (SQL)**
