@@ -14,10 +14,10 @@ Analyze the café’s new menu to identify which items are performing well, whic
 5. Identified top customers by frequency and spending.
 
 ## Key Insights
-- The most ordered item is a Hamburger and least ordered item is Chicken Tacos.  
-- 
-- The analysis demonstrates how top customers differ in ordering behavior compared to average customers.  
-- The dashboard enables management to explore trends dynamically and make informed menu decisions.  
+- The most ordered item is a Hamburger and the least ordered item is Chicken Tacos.  
+- The most expensive item on the menu is Shrimp Scampi and the least expensivve item is Edamame. 
+- The most expensive category is Italian and the least expensive category is American
+- The top five highest spend orders are ordering more Italian food than any other category.  
 
  ## Next steps: 
  With more detailed or larger datasets, further insights could include seasonal trends or item combinations that drive sales.
@@ -30,10 +30,10 @@ Analyze the café’s new menu to identify which items are performing well, whic
 - Customer segmentation  
 - Calculating revenue by item or category
 
-## 📁 Files Included
+## Files Included
 - `queries.sql` — all SQL queries used for the analysis  
 - Screenshots of query results
 
-## 📝 Notes
-This project demonstrates how SQL can be used to explore customer and sales data, summarize results, and provide actionable insights, even when strong trends are subtle.
+## Notes
+This project demonstrates how SQL can be used to explore customer and sales data, summarize results, and provide actionable insights for menu planning and customer engagement.
 
