@@ -19,10 +19,7 @@ Analyze the café’s new menu to identify which items are performing well, whic
 - The most expensive category is Italian and the least expensive category is American
 - The top five highest spend orders are ordering more Italian food than any other category.  
 
- ## Next steps: 
- With more detailed or larger datasets, further insights could include seasonal trends or item combinations that drive sales.
-
-## SQL Skills Demonstrated
+ ## SQL Skills Demonstrated
 - SELECT queries with filtering  
 - GROUP BY and aggregate functions (`COUNT`, `SUM`)  
 - JOINs to combine tables  
@@ -32,7 +29,9 @@ Analyze the café’s new menu to identify which items are performing well, whic
 
 ## Files Included
 - [`cafe_analysis.sql`](cafe_analysis.sql)  
-- Screenshots of query results
+- [Screenshots of query results](cafe_query1.png)
+- [Screenshots of query results](cafe_query2.png)
+- [Screenshots of query results](cafe_query3.png)
 
 ## Notes
 This project demonstrates how SQL can be used to explore customer and sales data, summarize results, and provide actionable insights for menu planning and customer engagement.
