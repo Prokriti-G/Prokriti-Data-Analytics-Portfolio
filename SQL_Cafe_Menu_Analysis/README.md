@@ -31,7 +31,7 @@ Analyze the café’s new menu to identify which items are performing well, whic
 - Calculating revenue by item or category
 
 ## Files Included
-- `queries.sql` — all SQL queries used for the analysis  
+- [`cafe_analysis.sql`](./SQL_Cafe_Menu_Analysis/cafe_analysis.sql)  
 - Screenshots of query results
 
 ## Notes
