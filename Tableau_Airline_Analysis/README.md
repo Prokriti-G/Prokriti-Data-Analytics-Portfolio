@@ -5,8 +5,8 @@ Interactive dashboard analyzing airline/country service metrics (map + table).
 Published on Tableau Public (link below) and demonstrated with screenshots.
 
 ## Files
-- ![Dashboard Overview](./Tableau_Airline_Dashboard.png) 
-- ![Average Overall Rating](./Tableau_Airline_Rating.png)
+- [Dashboard Overview](./Tableau_Airline_Dashboard.png) 
+- [Average Overall Rating](./Tableau_Airline_Rating.png)
 
 
 ## Interactive dashboard
