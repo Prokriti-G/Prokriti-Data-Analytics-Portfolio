@@ -17,5 +17,8 @@ View the interactive dashboard on Tableau Public: [British Airways Service Analy
 Tableau Public
 
 ## Key insights
-- (Add 2–3 bullets summarizing findings)
+- The average overall rating has been dropping since 2022 across all arilines.
+- September 2023 saw the lowest overall rating at 1.5.
+- Boeing 777 and 787 has the best ground service and overall rating.
+  
 
